@@ -1,0 +1,9 @@
+.number{
+    padding: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 60px;
+    font-weight: bolder;
+    background-color: #000273;
+    color: #fff;
+}
